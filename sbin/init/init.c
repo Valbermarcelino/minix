@@ -35,7 +35,13 @@
 #include <sys/cdefs.h>
 #ifndef lint
 __COPYRIGHT("@(#) Copyright (c) 1991, 1993\
- The Regents of the University of California.  All rights reserved.");
+ The Regents of the University of California.  All rights reserved.
+ 
+========================================
+| Minix 3.4.0rc6 - S0 - UNIFESP 1s2025  |  
+| Projeto Pratico (I) - Equipe X 		|  
+========================================
+ ");
 #endif /* not lint */
 
 #ifndef lint
